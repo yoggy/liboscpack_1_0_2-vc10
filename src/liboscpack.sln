@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "liboscpack", "liboscpack\liboscpack.vcxproj", "{76058F68-3211-4AD9-8BDE-0F95D53E11C9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleReceive", "SimpleReceive\SimpleReceive.vcxproj", "{7D181ED5-362E-4518-94BA-E93220B5B202}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleSend", "SimpleSend\SimpleSend.vcxproj", "{6AC549A4-6C26-4E7C-A4E5-179AC20ED0BE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OscDump", "OscDump\OscDump.vcxproj", "{C878CFC6-7C1A-4082-9D17-0A7D9AFFB22A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76058F68-3211-4AD9-8BDE-0F95D53E11C9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{76058F68-3211-4AD9-8BDE-0F95D53E11C9}.Debug|Win32.Build.0 = Debug|Win32
+		{76058F68-3211-4AD9-8BDE-0F95D53E11C9}.Release|Win32.ActiveCfg = Release|Win32
+		{76058F68-3211-4AD9-8BDE-0F95D53E11C9}.Release|Win32.Build.0 = Release|Win32
+		{7D181ED5-362E-4518-94BA-E93220B5B202}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7D181ED5-362E-4518-94BA-E93220B5B202}.Debug|Win32.Build.0 = Debug|Win32
+		{7D181ED5-362E-4518-94BA-E93220B5B202}.Release|Win32.ActiveCfg = Release|Win32
+		{7D181ED5-362E-4518-94BA-E93220B5B202}.Release|Win32.Build.0 = Release|Win32
+		{6AC549A4-6C26-4E7C-A4E5-179AC20ED0BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6AC549A4-6C26-4E7C-A4E5-179AC20ED0BE}.Debug|Win32.Build.0 = Debug|Win32
+		{6AC549A4-6C26-4E7C-A4E5-179AC20ED0BE}.Release|Win32.ActiveCfg = Release|Win32
+		{6AC549A4-6C26-4E7C-A4E5-179AC20ED0BE}.Release|Win32.Build.0 = Release|Win32
+		{C878CFC6-7C1A-4082-9D17-0A7D9AFFB22A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C878CFC6-7C1A-4082-9D17-0A7D9AFFB22A}.Debug|Win32.Build.0 = Debug|Win32
+		{C878CFC6-7C1A-4082-9D17-0A7D9AFFB22A}.Release|Win32.ActiveCfg = Release|Win32
+		{C878CFC6-7C1A-4082-9D17-0A7D9AFFB22A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
